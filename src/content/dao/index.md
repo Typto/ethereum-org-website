@@ -150,6 +150,7 @@ _Typically used for decentralized development and governance of protocols and da
 ### DAO Articles {#dao-articles}
 
 - [What's a DAO?](https://aragon.org/dao) – [Aragon](https://aragon.org/)
+- [Beyond ideology, what is DAO](https://app.musex.io/article/2/10) - [DAOSquare](https://daosquare.io)
 - [The DAO Handbook](https://daohandbook.xyz)
 - [House of DAOs](https://wiki.metagame.wtf/docs/great-houses/house-of-daos) – [Metagame](https://wiki.metagame.wtf/)
 - [What is a DAO and what is it for?](https://daohaus.substack.com/p/-what-is-a-dao-and-what-is-it-for) – [DAOhaus](https://daohaus.club/)
